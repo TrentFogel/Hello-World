@@ -1,4 +1,4 @@
 # Hello-World
 Hello World Repository
 
-I dont kniw what to say.
+I dont know what to say.
